@@ -1,0 +1,10 @@
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A Day At The Race.csproj.AssemblyReference.cache
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\bin\Debug\A Day At The Race.exe.config
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\bin\Debug\A Day At The Race.exe
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\bin\Debug\A Day At The Race.pdb
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A_Day_At_The_Race.Form1.resources
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A_Day_At_The_Race.Properties.Resources.resources
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A Day At The Race.csproj.GenerateResource.cache
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A Day At The Race.csproj.CoreCompileInputs.cache
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A Day At The Race.exe
+C:\Users\amjad\Desktop\OOP Projects\A_Day_at_the_Races-master\A_Day_at_the_Races-master\A Day At The Race\obj\Debug\A Day At The Race.pdb
